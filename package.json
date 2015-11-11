@@ -1,0 +1,31 @@
+{
+  "name": "lobsterdoc-documentation-template",
+  "version": "1.0.0",
+  "description": "Beautifully crafted beautifully carfted html documentaion template",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Lobster/LobsterDoc-documentation-template.git"
+  },
+  "keywords": [
+    "Open",
+    "Source",
+    "Documentation",
+    "html",
+    "template"
+  ],
+  "author": "Karan Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Code-Lobster/LobsterDoc-documentation-template/issues"
+  },
+  "homepage": "https://github.com/Code-Lobster/LobsterDoc-documentation-template#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

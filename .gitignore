@@ -1,2 +1,7 @@
+//for mac
+.DS_Store
+
+//for sass
 .sass-cache
 *.css.map
+node_modules/
